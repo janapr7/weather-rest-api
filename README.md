@@ -1,0 +1,1 @@
+This REST API repository is a modification of "https://github.com/renomureza/cuaca-gempa-rest-api". The data source used is from BMKG's Open Weather Forecast Data (https://data.bmkg.go.id/prakiraan-cuaca/).
